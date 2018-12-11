@@ -1,4 +1,4 @@
 # gitLearning
 Learning basic commands for git
 
-Adding line from master
+Changes made from master branch
